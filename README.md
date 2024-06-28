@@ -152,7 +152,7 @@ File Setting ``setting.js``
 
 * ## Hasil Deploy🌍
 
-[`alpis.eu.org `](https://alpis.eu.org)<br>
+[`bayyoedia.xyz `](https://bayypedia.xyz)<br>
 [`alpis.bot-skylarkskyl.repl.co
 `](https://alpis.bot-skylarkskyl.repl.co)<br>
 
@@ -167,7 +167,7 @@ File Setting ``setting.js``
 
 <img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200">
 
-[`AlipBot`](https://github.com/AlipBot)<br>
+[`Bayu`](https://github.com/bayustore22)<br>
 
 <img src="https://telegra.ph/file/1cbc7e659b35a053bf25f.png" width="150" height="150">
 
