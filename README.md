@@ -165,7 +165,7 @@ File Setting ``setting.js``
 
 ## ``Credit 💳 Script``
 
-<img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200">
+<img src="https://bayypedia.my.id/assets/images/logo-b.png" width="200" height="200">
 
 [`Bayu`](https://github.com/bayustore22)<br>
 
